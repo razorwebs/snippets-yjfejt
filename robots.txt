@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://razorwebs.github.io/snippets-yjfejt/sitemap.xml
